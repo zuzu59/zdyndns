@@ -1,6 +1,8 @@
 #!/bin/ash
-#Petit client bash zDynDNS pour Synology
-#zf170425.1418
+#Petit client bash pour le zDynDNS
+#zf170425.1523
+
+export PATH=/opt/bin:/opt/sbin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
 
 while true
 do
